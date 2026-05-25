@@ -1,0 +1,122 @@
+aid: mukuru
+name: Mukuru
+description: >-
+  Mukuru is a Cape Town-headquartered, pan-African fintech and one of the
+  continent's largest formal remittance providers, serving over 16 million
+  customers across Southern, Eastern and Western Africa, the United Kingdom,
+  and the European Union. Founded in 2004 to make sending money home faster
+  and more affordable for the African diaspora, Mukuru now operates a broader
+  financial services platform spanning international and domestic money
+  transfers, the Mukuru Card (a prepaid card product), Mukuru Wallet (a
+  mobile money wallet available in markets such as Botswana for airtime,
+  electricity, and bill payments), Mukuru Pay (cash-based online checkout at
+  retail partners), and Mukuru Funeral Cover (life insurance with
+  cross-border repatriation benefits underwritten by Guardrisk Life). The
+  company is licensed as a South African Financial Services Provider (FSP
+  45517) and registered Credit Provider (NCRCP9244), and reaches customers
+  through a hybrid network of branches, retail booths, USSD, WhatsApp, web,
+  and native Android, iOS, and Huawei AppGallery apps, supported by more
+  than 320,000 pay-in and pay-out locations. An enterprise arm — branded
+  under the Mukuru Enterprise / MukuruPay umbrella — offers collections and
+  disbursements rails to businesses sending funds into or paying out across
+  Africa. Mukuru does not publish a public developer API, OpenAPI
+  specification, SDK, or open-source client; its Mukuru GitHub organization
+  contains only archived forks of upstream infrastructure tooling (Drone,
+  Helm, Puppet, PHP Docker images) and no Mukuru-authored libraries.
+  Integrations with the Mukuru Enterprise platform are arranged through
+  direct commercial engagement rather than a self-service developer program.
+type: Index
+position: Provider
+access: 3rd-Party
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - Remittance
+  - Money Transfer
+  - Cross Border Payments
+  - Africa
+  - South Africa
+  - Diaspora
+  - Mobile Money
+  - Wallet
+  - Prepaid Card
+  - Funeral Insurance
+  - Disbursements
+  - Collections
+  - Cash In Cash Out
+  - Financial Inclusion
+  - Fintech
+url: https://raw.githubusercontent.com/api-evangelist/mukuru/refs/heads/main/apis.yml
+created: '2026-05-24'
+modified: '2026-05-24'
+specificationVersion: '0.20'
+apis: []
+common:
+  - type: Website
+    url: https://www.mukuru.com
+  - type: AboutUs
+    url: https://www.mukuru.com/about-us/
+  - type: Enterprise
+    url: https://www.mukuru.com/enterprise/
+  - type: SendMoney
+    url: https://www.mukuru.com/services/send-money/
+  - type: MukuruCard
+    url: https://www.mukuru.com/services/mukuru-card/
+  - type: MukuruWallet
+    url: https://www.mukuru.com/services/mukuru-wallet/
+  - type: MukuruPay
+    url: https://www.mukuru.com/services/mukuru-pay/
+  - type: FuneralCover
+    url: https://www.mukuru.com/services/mukuru-funeral-cover/
+  - type: Rates
+    url: https://www.mukuru.com/check-rates/
+  - type: BranchesAndBooths
+    url: https://www.mukuru.com/find-us/branches-booths/
+  - type: SignUp
+    url: https://www.mukuru.com/sign-up-with-mukuru/
+  - type: Login
+    url: https://mobile.mukuru.com/mobi/login
+  - type: HelpSupport
+    url: https://www.mukuru.com/help-support/
+  - type: ContactUs
+    url: https://www.mukuru.com/help-support/contact-us/
+  - type: Newsroom
+    url: https://www.mukuru.com/news/
+  - type: PressMediaKit
+    url: https://www.mukuru.com/about-us/press-media-kit/
+  - type: Blog
+    url: https://moneymatters.mukuru.com/
+  - type: Careers
+    url: https://www.mukuru.com/about-us/careers/
+  - type: FraudPrevention
+    url: https://www.mukuru.com/fraud-prevention/
+  - type: Security
+    url: https://www.mukuru.com/legal/information-security-at-mukuru/
+  - type: Legal
+    url: https://www.mukuru.com/legal/
+  - type: TermsOfService
+    url: https://www.mukuru.com/legal/terms-conditions/
+  - type: ComplaintsPolicy
+    url: https://www.mukuru.com/legal/the-mukuru-group-complaints-policy/
+  - type: AndroidApp
+    url: https://play.google.com/store/apps/details?id=com.mukuru.customer.android
+  - type: iOSApp
+    url: https://apps.apple.com/us/app/id1515075370
+  - type: HuaweiApp
+    url: https://appgallery.huawei.com/#/app/C103861487
+  - type: GitHub
+    url: https://github.com/Mukuru
+  - type: Facebook
+    url: https://www.facebook.com/mukurudotcom
+  - type: Twitter
+    url: https://twitter.com/mukurudotcom
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/mukuru
+  - type: Instagram
+    url: https://www.instagram.com/mukurudotcom/
+  - type: YouTube
+    url: https://www.youtube.com/@mukuru
+  - type: TikTok
+    url: https://www.tiktok.com/@mukurudotcom
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
