@@ -71,7 +71,7 @@ common:
     url: https://www.mukuru.com/check-rates/
   - type: BranchesAndBooths
     url: https://www.mukuru.com/find-us/branches-booths/
-  - type: SignUp
+  - type: Signup
     url: https://www.mukuru.com/sign-up-with-mukuru/
   - type: Login
     url: https://mobile.mukuru.com/mobi/login
