@@ -2,11 +2,10 @@
   "repo": "mukuru",
   "feeds": [
     {
-      "source": "https://moneymatters.mukuru.com/",
-      "saved": 0,
-      "error": "HTTP 403 Forbidden"
+      "source": "https://www.mukuru.com/about-us/press-media-kit/",
+      "error": "HTTPError"
     }
   ],
   "post_count": 0,
-  "fetched": "2026-06-27T12:56:07Z"
+  "fetched": "2026-07-11T11:50:51Z"
 }
