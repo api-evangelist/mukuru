@@ -26,6 +26,17 @@ description: >-
   Integrations with the Mukuru Enterprise platform are arranged through
   direct commercial engagement rather than a self-service developer program.
 type: Index
+deliveryModel:
+  model: saas
+  open_source: false
+  commercial: true
+  callable_host: false
+  label: Hosted service · you call their endpoint
+  confidence: medium
+  source:
+  - pricing
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
