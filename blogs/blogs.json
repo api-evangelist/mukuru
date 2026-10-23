@@ -7,12 +7,9 @@
     },
     {
       "source": "https://www.mukuru.com/comments/feed/",
-      "feed_url": "https://www.mukuru.com/comments/feed/",
-      "title": "",
-      "saved": 0,
-      "method": "feed"
+      "error": "HTTPError"
     }
   ],
   "post_count": 12,
-  "fetched": "2026-10-10T13:15:00Z"
+  "fetched": "2026-10-17T14:53:57Z"
 }
